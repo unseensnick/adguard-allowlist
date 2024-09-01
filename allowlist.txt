@@ -1,0 +1,12 @@
+!
+! Title: Snickers Allowlist
+! Description: allows websites to load.
+! Version: 1.0.00.01
+! Last modified: 2024-09-01T04:07:28.835Z
+!
+!
+!
+! Source name: Snickers Allowlist
+! Source: https://raw.githubusercontent.com/unseensnick/adguard-allowlist/main/adguard-allowlist/allowlist.txt
+!
+||norsk-tipping.no^
