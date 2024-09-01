@@ -7,7 +7,7 @@
 !
 !
 ! Source name: Snickers Allowlist
-! Source: https://raw.githubusercontent.com/unseensnick/adguard-allowlist/main/adguard-allowlist/allowlist.txt
+! Source: https://raw.githubusercontent.com/unseensnick/adguard-allowlist/main/allowlist.txt
 !
 ||norsk-tipping.no^
 ||rikstoto.no^
