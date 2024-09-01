@@ -10,3 +10,4 @@
 ! Source: https://raw.githubusercontent.com/unseensnick/adguard-allowlist/main/adguard-allowlist/allowlist.txt
 !
 ||norsk-tipping.no^
+||rikstoto.no^
