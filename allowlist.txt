@@ -1,7 +1,7 @@
 !
 ! Title: Snickers Allowlist
 ! Description: allows websites to load.
-! Version: 1.0.00.01
+! Version: 1.0.00.04
 ! Last modified: 2024-09-01T04:07:28.835Z
 !
 !
