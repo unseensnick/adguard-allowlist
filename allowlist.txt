@@ -12,3 +12,4 @@
 ||norsk-tipping.no^
 ||rikstoto.no^
 ||tidal.com^
+||tv2.no^
